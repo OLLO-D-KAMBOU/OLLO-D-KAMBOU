@@ -1,4 +1,4 @@
-82b5e2f64d3cb64709e0becf183720e1d0979cde## Hi there 👋
+## Hi there 👋
 
 <!--
 **OLLO-D-KAMBOU/OLLO-D-KAMBOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
